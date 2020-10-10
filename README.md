@@ -16,7 +16,7 @@ Install visio professional ![](https://www.microsoft.com/en-us/microsoft-365/p/v
 
 ### Demo:
 This is how Entity relationship diagram looks like:
-<img src ="https://github.com/pratheepknadar/Bolt-Bike-Relational-DataBase-Management-system/Images/1.jpg" width = 100 height = 100>
+<img src ="https://github.com/pratheepknadar/Bolt-Bike-Relational-DataBase-Management-system/blob/master/Images/1.jpg" width = 100 height = 100>
 
 
 

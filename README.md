@@ -15,10 +15,15 @@ Install visio professional ![](https://www.microsoft.com/en-us/microsoft-365/p/v
 * generating reports for each entity
 
 ### Demo:
-This is how Entity relationship diagram looks like:
+#### This is how Entity relationship diagram looks like:
 ![](https://github.com/pratheepknadar/Bolt-Bike-Relational-DataBase-Management-system/blob/master/Images/1.jpg)
-
-
+![](https://github.com/pratheepknadar/Bolt-Bike-Relational-DataBase-Management-system/blob/master/Images/2.jpg)
+#### This is how relational database schema looks like:
+![](https://github.com/pratheepknadar/Bolt-Bike-Relational-DataBase-Management-system/blob/master/Images/3.jpg)
+#### This is how form on MS Access looks like:
+![](https://github.com/pratheepknadar/Bolt-Bike-Relational-DataBase-Management-system/blob/master/Images/4.jpg)
+#### This is how the generated reports for each entity looks like:
+![](https://github.com/pratheepknadar/Bolt-Bike-Relational-DataBase-Management-system/blob/master/Images/5.jpg)
 
 ### Technologies used: 
 Microsoft Access, Microsoft Visio, Microsoft SQL Server
